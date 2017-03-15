@@ -1,0 +1,13 @@
+<Solution>
+  <PropertyGroup Name="TestScroll_prebuilt" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="FileLayer.csd" Type="Layer" />
+        <Project Name="Item.csd" Type="Layer" />
+        <Project Name="StartScene.csd" Type="Scene" />
+        <Project Name="TestNode.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
